@@ -1,0 +1,31 @@
+1- What is Apache Kafka?
+2- Example: For example:  Multiple electric meter of the Area sending-> readings to apache Kafka.
+3- How the Kafka works? Or what Pub-Sub messaging system ?
+4- Who create the Kafka and why? 
+5- How the Kafka got evolved from data integration to data streaming form?
+6- Kafka evolved to five components names? Or Apache Kafka Core Concept?
+7- Where does it fit into an Enterprise Application Ecosystems? 
+8- Now we will discuss about some fundamental core concept which are associated with Kafka 
+	1-	Producer: What is Producer & How the Producer gets created?
+	2-	Consumer: What is Consumer & How the Consumer gets created? 
+	3-	Broker:   What is Broker & How the Broker gets created? 
+	4-	Cluster:  What is Cluster & How the Cluster gets created? 
+	5-	Topics:   What is Topics & How the Topics gets created? 
+	6-	Partitions: What is Partitions & How the Partitions gets created? 
+	7-	Offset:  What is Offset & How the Offset gets created?  and offset number are local or global 
+	8-	Consumer Groups:  What is Consumer Groups & How the Consumer Groups gets created? 
+9- How to locate a specific message in a Kafka cluuster? 
+10- Let’s take an example from retail industry and how to save the invoices from each counter to central location? 
+
+Now here will discuss about Kafka Connect. Here we will learn about the following things. 
+1-	What is Kafka Connects? 
+2-	How Kafka connect works? 
+3-	Kafka Connect Scalability
+4-	Kafka Connect Transformations
+5-	Kafka Connect Architecture.  
+
+11-  What is Kafka source connector and kafka sink connector? 
+12- How Kafka Connect works?
+13- What is Kafka connect cluster? 
+14- Kafka Connect only copy the data or does it some process or transformation of data?
+

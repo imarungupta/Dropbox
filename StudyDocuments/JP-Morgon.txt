@@ -1,0 +1,50 @@
+1- Tell me about your self
+
+Core Java- 
+1- How Many types of classloader is there in java.
+2- JVM Architecture
+3- How the Garbage Collection works, how the java manages the memory internally. 
+4- Difference Between JDK, JRE, and JVM
+5- Solid Principal 
+
+6- Internal working of HashMap, How the hashCode and equal method help in HashMap 
+7- We have override hashCode and equal method for employee object and in hashCode we are always retrun 1. Now i am inserting 5 element in the hashmap object then what will be the size
+   What imapact will be ther if we do not override hashCode() but override equals() method, and in opposite scenario if we override hashcode and does not override equals().  
+8- How does the hash map put and get method work. 
+
+8- What is the Singeleton DP, write a program with all scenario, how do you test that singleton class that you have created is singleton class only. 
+9- WAP to make an Employee class immutable.
+10- Let's say we have one class with two variable(name, age) and one variable of class type let's say Engine class type then how will you make this class immutable? 
+11- What is the difference between fail fast and fail safe, what kind of collection is fail fast and fail safe? 
+10- WAP to count the number of given character in the string(My Country is India) using java-8 
+11- I have one array list having element 1 to 15, then using java find the number of mulple of 5. 
+
+Exception Handaling: 
+1- Let's say we have two class parent and child, and there we have got nullpointer exception in the child class then code will compile or not. 
+2- Let's we have two overloded method calculate(Integer i) and calculate(String i). Now when we call the method with null parameter like calculate(null) then what will happen. 
+3- Herriachy of exception
+
+Aggrigation and Composition: 
+
+*- What is the difference between Aggrigation and Composition. Is both have HAS-A relationship. Write a code for composition and aggrigation. 
+*- Which is more stronger in compare to inharitance and composition. 
+*- How many type of relationship we have in java . 1- IS-A relationship ex: Inheritance 2- HAS-A relationship (Aggrigation & Composition) 
+Example of IS-A Relationship (Inharitance)- Car IS-A Vehicle.
+Example of Aggrigation(HAS-A Relationship) - Employee HAS-A Address, so here if we remove main class Employee class then Address class will still be exist. 
+Example of Composition(HAS-A Relationship) - Company Or College has several dept. If remove Main class College then all the dept classes also will be removed. 
+
+Spring Boot: 
+1- What is spring profile, how dow you create profile in the spring boot? 
+2- How we can exclude few autoconfiguration from the spring boot? 
+3- How you are managing security in your spring boot application. 
+4- What is dependency injection, how we can achieve the dependecny injection, how many type of autowireing is ther? 
+5- What is the use @Primary annotation in spring 
+
+Question on Kafka: 
+1- How do you configure Kafka (Consumer and producer) in your application? 
+2- Can we send empty message to Kafka? 
+
+
+
+
+
